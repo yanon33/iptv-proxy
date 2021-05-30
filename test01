@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=""  tvg-logo="รูป" group-title="สารคดี",animal planet
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273376.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="รูป" group-title="หนังมูฟวี่",Red Box
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/168398.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="รูป" group-title="กีฬา",BT Sport
+http://dimapro.cz:8080/00:1A:79:17:0A:51/ziajdjjfdifjd64646/38642
